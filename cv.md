@@ -27,3 +27,18 @@ I have no experience in IT. I have heard about RS-school from my friends. Now I 
 - CSS Basic
 
 ---
+
+### **Code example:**
+
+```javascript
+function multiply(a, b){
+  return a * b
+}
+```
+
+---
+
+### **Experience:** 
+
+**First project:** [CV#1. Markdown & Git](https://github.com/Baha9898/rsschool-cv/blob/gh-pages/cv.md)
+
