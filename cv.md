@@ -12,3 +12,18 @@
 **Discord:** [Baha9898](https://discord.com/channels/@me)<br>
 
 ---
+
+### **About me:**
+
+I have no experience in IT. I have heard about RS-school from my friends. Now I am studying to become a frontend developer without any background. I want to learn the subtleties of this profession as soon as possible and become a professional in my field. I think with my adaptation and diligence I will succeed in it quickly.
+
+---
+
+### **Skills:**
+
+- Git, GitHub Basic
+- Markdown Basic
+- HTML Basic
+- CSS Basic
+
+---
