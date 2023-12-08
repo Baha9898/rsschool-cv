@@ -42,3 +42,18 @@ function multiply(a, b){
 
 **First project:** [CV#1. Markdown & Git](https://github.com/Baha9898/rsschool-cv/blob/gh-pages/cv.md)
 
+---
+
+### **Education:**
+
+- **University:** Kazakh Agrotechnical University named after Saken Seifullin, Information System major<br>
+- **Courses:** "JavaScript/Front-end. Stage 0" at RS-school(In progress)<br>
+
+---
+
+### **Languages:**
+
+
+- **Kazakh:** Native<br>
+- **Russian:** Fluent<br>
+- **English:** Upper intermediate(B2) at StudyInn in Astana and also I had been practicing it in the USA as a exchange student in 2017<br>
